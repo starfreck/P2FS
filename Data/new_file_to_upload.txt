@@ -1,0 +1,4 @@
+1. PURPOSE
+The purpose of this document is to give Autoconnect recruits the guidelines on the onboarding task for both form and content. The information gathered will be compiled and kept as reference for use by the team in future challenges.
+Concordia SAE Autoconnect works with Autonomous driving. To control the vehicle into moving into a specific direction the vehicle must do some sensing first. As sensing types varies, we will concentrate on the most important sensing element used in the autonomy of vehicles.
+Visual sensors (Cameras) provide exte
